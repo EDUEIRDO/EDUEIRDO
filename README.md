@@ -1,4 +1,4 @@
-### Olá, eu sou Carlos Eduardo 📡
+## Olá, eu sou Carlos Eduardo 📡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ten%C3%B3rio/)
 
