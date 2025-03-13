@@ -10,9 +10,4 @@
 ![C](https://img.shields.io/badge/language-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![React](https://img.shields.io/npm/v/react?label=React&logo=react&color=61DAFB)
-![GNU libmicrohttpd](https://img.shields.io/badge/GNU%20libmicrohttpd-lightgrey?style=for-the-badge&logo=gnu&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-
-
