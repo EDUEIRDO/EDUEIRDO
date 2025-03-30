@@ -1,5 +1,4 @@
-## Hello, i'm Carlos Eduardo 📡
-
+## Hello strange📡
 ![EDUEIRDO GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUEIRDO&show_icons=true&theme=radical&locale=en)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDUEIRDO&theme=radical&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
